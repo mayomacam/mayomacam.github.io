@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+
+section .context {
+    overflow: hidden;
+    position: relative;
+}
+section .pink {
+    background: #ed145b;
+   
+}
+section .green {
+    background: #00a651;
+}
+section .darkblue {
+    background: #0054a6;
+}
+section .gold {
+    background: #d4ab07;
+}
+section .overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0.8;
+  transition: .3s ease;
+
+}
+section .context:hover .overlay {
+  opacity: 1;
+}
+[onClick]{
+  cursor:pointer;
+}
+section .text {
+    display: table;
+    width: 100%;
+    height: 100%;
+    font-size:1.2rem;
+}
+section .text > div{
+  display:table-cell;
+  vertical-align:middle;
+  }
+  @media (max-width: 575.98px) {
+    img{
+      width:100%!important;
+    }
+    .text{
+      font-size:2rem;
+    }
+  }
+
+
+
+
+
+
