@@ -275,7 +275,7 @@ a.active {
 
 .navbar-default .nav li a:link{ 
   border-top: solid blue 1px; 
-  color: #000 !important;
+  color: black !important;
 }
 .navbar-default .nav li a:visited{ 
   border-top: solid blue 1px;
