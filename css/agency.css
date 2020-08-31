@@ -367,6 +367,7 @@ section h3.section-subheading {
   font-size: 16px;
   /*font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
   font-family: 'Proza Libre', sans-serif;
+  color: whitesmoke;
   text-transform: none;
   font-weight: 400;
   margin-bottom: 75px;
@@ -455,9 +456,9 @@ section h3.section-subheading {
   bottom: 0;
   position: absolute;
   content: "";
-  width: 5px;
+  width: 3px;
   /*background-color: #f1f1f1;*/
-  background-color: #f56d05;
+  background-color: whitesmoke;
   left: 40px;
   margin-left: -1.5px;
 }
@@ -500,11 +501,12 @@ section h3.section-subheading {
   height: 80px;
   position: absolute;
   z-index: 100;
-  background-color: #69e774;
-  color: white;
+  background-color: black;
+  color: orange;
   border-radius: 100%;
   /*border: 7px solid #f1f1f1;*/
-  border: 5px solid #f56d05;
+  /*border: 5px solid #f56d05;*/
+  border: 5px solid greenyellow;
   text-align: center;
 }
 .timeline > li .timeline-image h4 {
@@ -589,7 +591,7 @@ section h3.section-subheading {
   .timeline > li .timeline-image h4 {
     font-size: 18px;
     margin-top: 30px;
-    line-height: 26px;
+    line-height: 20px;
   }
   .timeline > li.timeline-inverted > .timeline-panel {
     padding: 0 20px 20px;
@@ -597,15 +599,15 @@ section h3.section-subheading {
 }
 @media (min-width: 1200px) {
   .timeline > li {
-    min-height: 170px;
+    min-height: 90px;
   }
   .timeline > li .timeline-panel {
     padding: 0 20px 20px 100px;
   }
   .timeline > li .timeline-image {
-    width: 170px;
-    height: 170px;
-    margin-left: -85px;
+    width: 120px;
+    height: 120px;
+    margin-left: -60px;
   }
   .timeline > li .timeline-image h4 {
     margin-top: 40px;
@@ -741,14 +743,14 @@ ul.social-buttons {
   margin: 100px 0px;
 }
 ul.social-buttons li a {
-  display: block;
+  display: contents;
   background-color: #222;
-  height: 80px;
-  width: 80px;
+  height: 40px;
+  width: 40px;
   border-radius: 100%;
   font-size: 40px;
   line-height: 80px;
-  color: white;
+  color: greenyellow;
   outline: none;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
