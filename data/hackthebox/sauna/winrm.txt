@@ -1,1 +1,0 @@
-evil-winrm -i 10.10.10.175 -u fsmith -p Thestrokes23

@@ -1,5 +1,0 @@
-whoami
-
-iis apppool\defaultapppool
-
-

@@ -1,3 +1,0 @@
-after decrypt hash we get 
-user : admin@local.htb
-pass : baconandcheese
