@@ -1,0 +1,85 @@
+<!--<div class="cbp-item  hack-the-box">
+                <a href="#" class="cbp-caption cbp-lightbox" data-title="Box">
+                    <div class="cbp-caption-defaultWrap"><a href="data/hackthebox/monteverde/index.html"><img src="data/hackthebox/monteverde/1.png" alt="Box"></a></div>
+                    <div class="cbp-caption-activeWrap">
+                        <div class="cbp-l-caption-alignCenter">
+                            <div class="cbp-l-caption-body">
+                                <div class="cbp-l-caption-title">monteverde</div>
+                                <div class="cbp-l-caption-desc"></div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+</div>-->
+
+
+==============================================================================================================
+
+
+        <!--<div id="js-grid-masonry" class="cbp">
+
+             === FILA 1 : DEL VIDEO 1 AL 5 ================== 
+         
+            <div class="cbp-item unreal simulations">-->
+                <!-- VIDEO 1  
+                <a href="https://www.youtube.com/watch?v=IENWIoVnhRk" class="cbp-caption cbp-lightbox" data-title="Simbotic Engine">
+                    <div class="cbp-caption-defaultWrap"><img src="img/video60.jpg" alt="Simbotic Engine"></div>
+                    <div class="cbp-caption-activeWrap">
+                        <div class="cbp-l-caption-alignCenter">
+                            <div class="cbp-l-caption-body">
+                                <div class="cbp-l-caption-title">Simbotic: Simulation Engine</div>
+                                <div class="cbp-l-caption-desc"></div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>-->
+            
+    <!-- About Section -->
+     <!-- Team Section -->
+
+==================================================================================================================================
+About.html after skills
+
+            <div class="row text-center separateTop">
+                <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+                    <div class="containerImg"><img src="img/logos/" class="img-responsive img-centered" alt=""></div>
+                </div>
+                <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+                    <div class="containerImg"><img src="img/logos/" class="img-responsive img-centered" alt=""><script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script></div>
+                </div>
+                <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+                    <div class="containerImg"><img src="img/logos/" class="img-responsive img-centered" alt=""></div>
+                </div>
+                <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+                    <div class="containerImg"><img src="img/logos/" class="img-responsive img-centered" alt=""></div>
+                </div>
+                <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+                    <div class="containerImg"></div>
+                </div>
+                <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+                    <div class="containerImg"><img src="img/logos/" class="img-responsive img-centered" alt=""></div>
+                </div>
+                <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+                    <div class="containerImg"><img src="img/logos/" class="img-responsive img-centered" alt=""></div>
+                </div>
+                <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+                    <div class="containerImg"><img src="img/logos/" class="img-responsive img-centered" alt=""></div>
+                </div>
+            </div>
+============================================================================================================================
+
+ <!--<div class="cbp-item  hack-the-box">
+                <a href="#" class="cbp-caption cbp-lightbox" data-title="Box">
+                    <div class="cbp-caption-defaultWrap"><a href="data/hackthebox/monteverde/index.html"><img src="data/hackthebox/monteverde/1.png" alt="Box"></a></div>
+                    <div class="cbp-caption-activeWrap">
+                        <div class="cbp-l-caption-alignCenter">
+                            <div class="cbp-l-caption-body">
+                                <div class="cbp-l-caption-title">monteverde</div>
+                                <div class="cbp-l-caption-desc"></div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>-->

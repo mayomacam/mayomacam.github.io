@@ -144,12 +144,30 @@ section{
 	/*background-repeat: no-repeat;*/
 }
 .ConceptBkgReviews{
-    background-image: url(../../img/ConceptBkg2.jpg);
+    background-image: url(../../img/h.jpg);
+    /*animation: con 20s infinite;*/
     background-size: cover;
 	background-position: center center;
-	background-repeat: no-repeat;
+	background-repeat: round;
 	/*background-color: #363636;*/
 }
+@keyframes con {
+    0% {
+    background-image: url(../../img/c.jpg);
+    }
+    25% {
+    background-image: url(../../img/g.jpg);
+    }
+    50% {
+    background-image: url(../../img/i.png);
+    }
+    75% {
+    background-image: url(../../img/h.jpg);
+    }
+    100% {
+    background-image: url(../../img/k.jpg);
+    }
+    }
 
 footer{
 	background-color: #0a0a0a!important;
@@ -225,6 +243,9 @@ section h3.section-subheading.text-muted.near{
     padding: 2px 0;
 }
 
+.cbp-l-caption-desc {
+    color: #000;
+}
 /* --------------------------------------------------------------------------- */
 
 section h3.section-subheading.text-muted.near{
@@ -233,7 +254,9 @@ section h3.section-subheading.text-muted.near{
 
 section#contact .section-heading,
 section h2.section-heading, .service-heading {
-	  color: #f76d02;
+      color: orangered;
+      font-weight: bolder;
+      font-style: oblique;
 }
 
 .timeline-heading{

@@ -36,11 +36,11 @@ a, h1, h2, h3 {
 }
 .btn.btn-primary.btn-lg.scrollToTop{
     text-decoration:none;
-    background-color: #ff2701;
+    background-color: blue;
 }
 .btn.btn-primary.btn-lg.scrollToTop:hover{
     text-decoration:none;
-    background-color: #f83707;
+    background-color: blue;
 }
 
 
@@ -74,7 +74,7 @@ a, h1, h2, h3 {
   color: #9c9695;
 }
 .Maurya{
-  color: orangered;
+  color: blue;
 }
 @media (max-width: 2500px) {
     .logo{
@@ -132,27 +132,27 @@ section{
     padding: 110px 0px 50px 0px;
 }
 .ConceptBkg{
-    background-image: url(../../img/249863.jpg);
-    background-size: cover;
+    /*background-image: url(../../img/249863.jpg);
+    background-size: cover;*/
 	/*background-position: center center;*/
 	/*background-repeat: no-repeat;*/
 }
 .ConceptBkgDark{
-    background-image: url(../../img/about1.jpg);
-    background-size: cover;
+    /*background-image: url(../../img/about1.jpg);
+    background-size: cover;*/
 	/*background-position: center center;*/
 	/*background-repeat: no-repeat;*/
 }
 .ConceptBkgReviews{
-    background-image: url(../../img/ConceptBkg2.jpg);
+    /*background-image: url(../../img/ConceptBkg2.jpg);
     background-size: cover;
 	background-position: center center;
-	background-repeat: no-repeat;
+	background-repeat: no-repeat;*/
 	/*background-color: #363636;*/
 }
 
 footer{
-	background-color: #0a0a0a!important;
+	background-color: white !important;
     padding-bottom:275px; 
 }
 
@@ -180,28 +180,28 @@ section h3.section-subheading.text-muted.near{
 /* --- VIDEO GALLERY ----------------------------------------------------- */
 
 .cbp-l-filters-alignRight .cbp-filter-item.cbp-filter-item-active {
-    color: #FFFFFF;
-    background-color: #f0a469;
-    border-color: #f76d02;
+    color: #000;
+    background-color: #84b6f7;
+    border-color: #0212f7;
     cursor: default;
 }
 
 .cbp-l-filters-alignRight .cbp-filter-counter {
-    background-color: #f76d02;
+    background-color: #02bef7;
 }
 
 .cbp-l-filters-alignRight .cbp-filter-counter::after {
-    border-top: 4px solid #f76d02;
+    border-top: 4px solid #0602f7;
 }
 
 .cbp-l-filters-alignRight .cbp-filter-item {
-    border: 1px solid #f76d02;
+    border: 1px solid #9d02f7;
 }
 /* --- Color white of filters on hover  ------------ */
 .cbp-l-filters-alignRight .cbp-filter-item:hover {
 	 border: 1px solid #f0a469;
-     background-color: #2d1e26;
-     color: #FFF;
+     background-color: black;
+     color: #fff;
 }
 
 /* --- Adjust the padding to Section Video Gallery ------------ */
@@ -233,7 +233,7 @@ section h3.section-subheading.text-muted.near{
 
 section#contact .section-heading,
 section h2.section-heading, .service-heading {
-	  color: #f76d02;
+	  color: blue;
 }
 
 .timeline-heading{

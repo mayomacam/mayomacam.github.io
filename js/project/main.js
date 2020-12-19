@@ -7,15 +7,15 @@
         layoutMode: 'grid',
         defaultFilter: '*',
         animationType: 'slideDelay',
-        gapHorizontal: 20,
-        gapVertical: 20,
+        gapHorizontal: 100,
+        gapVertical: 100,
         gridAdjustment: 'responsive',
         mediaQueries: [{
             width: 1500,
             cols: 4,
         }, {
             width: 1100,
-            cols: 4,
+            cols: 3,
         }, {
             width: 800,
             cols: 3,
@@ -36,6 +36,7 @@
         lightboxDelegate: '.cbp-lightbox',
         lightboxGallery: true,
         lightboxTitleSrc: 'data-title',
+        lightboxcolor: 'white',
         lightboxCounter: '<div class="cbp-popup-lightbox-counter">{{current}} of {{total}}</div>',
     });
 })(jQuery, window, document);
