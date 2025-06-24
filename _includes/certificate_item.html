@@ -1,0 +1,47 @@
+{% comment %}
+  Expects:
+  - include.cert_href
+  - include.img_src
+  - include.alt_text
+  - include.title
+  - include.data_category
+  - include.tags
+  - include.related_post_slug (NEW: slug of the related blog post)
+{% endcomment %}
+
+<div class="item" data-category="{{ include.data_category | default: 'other' }}">
+  <a href="{{ include.cert_href | default: '#' }}" target="_blank" rel="noopener">
+    <img src="{{ include.img_src | default: 'https://via.placeholder.com/300x200?text=Certificate' }}" alt="{{ include.alt_text | default: 'Certificate Image' }}">
+  </a>
+  <p>
+    <strong>{{ include.title | default: "Certificate Title" }}</strong>
+  </p>
+  {% if include.tags and include.tags.size > 0 %}
+  <div class="tags">
+    {% for tag_item in include.tags %}
+    <span class="tag">{{ tag_item }}</span>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% comment %} --- Link to Related Blog Post --- {% endcomment %}
+  {% if include.related_post_slug %}
+    {% assign post_found = false %}
+    {% for post_item in site.posts %}
+      {% if post_item.slug == include.related_post_slug or post_item.title slugs.last == include.related_post_slug %} {# Check slug, then title's last part (more robust) #}
+        <p class="related-post-link" style="margin-top: 10px; font-size: 0.9em;">
+          <a href="{{ post_item.url | relative_url }}">Read my thoughts: "{{ post_item.title | escape }}"</a>
+        </p>
+        {% assign post_found = true %}
+        {% break %} {# Exit loop once post is found #}
+      {% endif %}
+    {% endfor %}
+    {% if post_found == false and jekyll.environment == "development" %}
+      <p style="color: red; font-size: 0.8em; margin-top: 5px;">
+        Warning: Related post with slug '{{ include.related_post_slug }}' not found.
+      </p>
+    {% endif %}
+  {% endif %}
+  {% comment %} --- End Link to Related Blog Post --- {% endcomment %}
+
+</div>

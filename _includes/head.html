@@ -1,0 +1,29 @@
+  <head>
+    <title>Blog - Mayomacam</title>
+    <meta property="og:title" content="Mayomacam - Blog" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="og:description" content="A personal blog showcasing my learning Journey" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" data-tag="font" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=STIX+Two+Text:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&amp;display=swap" data-tag="font" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" data-tag="font" />
+    {%- seo -%}
+    <link rel="stylesheet" href="{{ "/assets/css/footer.css" | relative_url }}" />
+    <link href="{{ "/assets/css/index.css" | relative_url }}" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <!--<link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">-->
+    {% comment %}
+    Conditional CSS based on page layout.
+    If the page uses the 'post' layout, include 'main.css'.
+    You can also check by page.path or page.url if needed for specific files.
+  {% endcomment %}
+  {% if page.layout == "post" %}
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  {% endif %}
+
+      {%- feed_meta -%}
+      {% if jekyll.environment == 'production' and site.google_analytics -%}
+        {%- include google-analytics.html -%}
+      {%- endif -%}
+  </head>

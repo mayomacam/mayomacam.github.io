@@ -1,0 +1,39 @@
+---
+layout: default
+title: All Blog Posts
+description: "Browse all blog posts from Mayomacam."
+---
+
+<div class="container" style="padding: 40px 20px; max-width: 900px; margin: 0 auto;">
+  <header style="text-align: center; margin-bottom: 40px;">
+    <h1>{{ page.title }}</h1>
+    <p class="page-description">{{ page.description }}</p>
+  </header>
+
+  {% if site.posts.size > 0 %}
+    <ul class="post-list-full" style="list-style: none; padding: 0;">
+      {% for post in site.posts %}
+        <li class="post-item-full" style="background-color: #fff; margin-bottom: 25px; padding: 25px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.08);">
+          <h2 class="post-list-title-full">
+            <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: #0056b3; font-size: 1.6em;">{{ post.title | escape }}</a>
+          </h2>
+          <p class="post-list-meta-full" style="font-size: 0.95em; color: #6c757d; margin-bottom: 15px;">
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+            {% if post.categories.size > 0 %}
+               •  Categories:
+              {% for category in post.categories %}
+                <a href="{{ site.baseurl }}/category/{{ category | slugify }}/" style="color: #6c757d; text-decoration: none;">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
+              {% endfor %}
+            {% endif %}
+          </p>
+          <div class="post-list-excerpt-full" style="color: #495057; line-height: 1.6; margin-bottom: 15px;">
+            {{ post.excerpt }}
+          </div>
+          <a href="{{ post.url | relative_url }}" class="read-more-link-full" style="display: inline-block; color: #007bff; text-decoration: none; font-weight: bold;">Continue Reading »</a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p style="text-align: center; color: #555;">No blog posts found.</p>
+  {% endif %}
+</div>

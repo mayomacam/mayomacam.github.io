@@ -1,0 +1,686 @@
+
+
+
+
+
+
+
+- title: "Tutedude - Ethical Hacking"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/certificate_TD-AMAN-EH-2114_aac0nl.png"
+  alt_text: "Tutedude - Ethical Hacking"
+  cert_href: "https://upskill.tutedude.com/certificate/TD-AMAN-EH-2114"
+  data_category: "certificate"
+  tags:
+    - "coursera"
+    - "certificate"
+    - "tutedude"
+    - "ethical hacking"
+    - "cybersecurity"
+    - "wifi hacking"
+    - "penetration testing"
+    - "OSINT"
+    - "tools"
+    - "pfsense"
+    - "OWASP"
+    - "2025"
+
+
+
+
+
+
+
+- title: "REvil Corp Writeup"
+  img_src: "/assets/images/tryhackme/revil-corp/logo.png"
+  alt_text: "Tryhackme Lab - REvil Corp"
+  cert_href: "./tryhackme/2025/04/16/REvil-Corp.html" # Link to actual certificate or course page
+  data_category: "tryhackme" # For JS filtering
+  tags:
+    - "tryhackme"
+    - "tools"
+    - "redline"
+    - "incident response"
+    - "2025"
+
+
+
+
+
+
+
+
+- title: "AIG Shields Up: Cybersecurity Job Simulation"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/aig-shield-up_upvot1.png"
+  alt_text: "Design Thinking By HP LIFE"
+  cert_href: "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4nAmAbTbHbnGMNSyo/2ZFnEGEDKTQMtEv9C_4nAmAbTbHbnGMNSyo_r4K6Bft4ZreWb4Jaw_1735734689600_completion_certificate.pdf"
+  data_category: "job"
+  tags:
+    - "forage"
+    - "certificate"
+    - "aig"
+    - "cybersecurity"
+    - "job simulation"
+    - "incident response"
+    - "2025"
+
+
+
+
+
+- title: "Google Prompting Essentials"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/google-prompt_vrp4xh.png"
+  alt_text: "Google Prompting Essentials"
+  cert_href: "https://www.coursera.org/account/accomplishments/certificate/5HDBGDTKTSW0"
+  data_category: "certificate"
+  tags:
+    - "coursera"
+    - "certificate"
+    - "prompt engineering"
+    - "Generative AI"
+    - "Artificial Intelligence"
+    - "Data Storytelling "
+    - "Brainstorming"
+    - "Ideation"
+    - "Writinjg"
+    - "2025"
+
+
+- title: "Office Productivity Software - Specialization"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/office-productivity_kubmtq.png"
+  alt_text: "Office Productivity Software - Specialization"
+  cert_href: "https://www.coursera.org/account/accomplishments/specialization/certificate/A3R37UN4KXQI"
+  data_category: "certificate"
+  tags:
+    - "coursera"
+    - "certificate"
+    - "office productivity"
+    - "Spreadsheet Software"
+    - "Productivity Software"
+    - "Email Security"
+    - "Google Workspace"
+    - "Presentations"
+    - "2025"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 2024
+
+- title: "Design Thinking By HP LIFE"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/python-for-cybersecurity_ey3yyt.png"
+  alt_text: "Design Thinking By HP LIFE"
+  cert_href: "https://www.life-global.org/certificate/640ead9b-709a-4126-827a-cbf05253a654"
+  data_category: "certificate"
+  tags:
+    - "HP"
+    - "hp life skills"
+    - "certificate"
+    - "design thinking"
+    - "design"
+    - "hp foundation"
+    - "2024"
+
+
+- title: "Python for Cybersecurity - Specialization"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/python-for-cybersecurity_ey3yyt.png"
+  alt_text: "Python for Cybersecurity - Specialization"
+  cert_href: "https://www.coursera.org/account/accomplishments/specialization/U931HQTKS7BP"
+  data_category: "certificate"
+  tags:
+    - "coursera"
+    - "certificate"
+    - "python"
+    - "cybersecurity"
+    - "cybersecurity tools"
+    - "cybersecurity automation"
+    - "Scripting"
+    - "Network Security"
+    - "Incident Response"
+    - "Cyber Threat Intelligence"
+    - "2024"
+
+- title: "Advanced Python Scripting for Cybersecurity - Specialization"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/advance-python-scripting_wtxiq4.png"
+  alt_text: "Advanced Python Scripting for Cybersecurity - Specialization"
+  cert_href: "https://www.coursera.org/account/accomplishments/specialization/certificate/5RNB64WKNBON"
+  data_category: "certificate"
+  tags:
+    - "coursera"
+    - "certificate"
+    - "python"
+    - "cybersecurity"
+    - "Automation"
+    - "Scripting"
+    - "System programming"
+    - "Network Security"
+    - "Network Monitoring"
+    - "2024"
+
+
+
+
+
+
+
+
+# 2023
+
+- title: "Monitor Writeup"
+  img_src: "/assets/images/htb/hard/monitor/logo.png"
+  alt_text: "Monitor Writeup - Hard"
+  cert_href: "./hackthebox/2023/09/21/monitors.html" # Link to actual certificate or course page
+  data_category: "hackthebox" # For JS filtering
+  tags:
+    - "hackthebox"
+    - "htb"
+    - "wordpress"
+    - "cacti"
+    - "docker"
+    - "2023"
+
+
+
+
+
+
+
+
+
+
+# 2022
+
+- title: "Overpass 3 - Hosting"
+  img_src: "/assets/images/tryhackme/overpass23.png"
+  alt_text: "Tryhackme Lab - Overpass 3 Hosting"
+  cert_href: "./tryhackme/2022/06/17/Overpass3.html" # Link to actual certificate or course page
+  data_category: "tryhackme" # For JS filtering
+  tags:
+    - "tryhackme"
+    - "overpass"
+    - "backups"
+    - "ftp"
+    - "nfsd"
+    - "bash"
+    - "2022"
+
+
+
+
+# 2021
+
+
+
+- title: "Capture the flag - Tax First Labz By @Yaksas443"
+  img_src: "#"
+  alt_text: "Capture the flag - Tax First Labz"
+  cert_href: "https://github.com/yaksas443/adversaryemulation.github.io/blob/main/ctf-taxfirstlabz-red-team-adversary-emulation-101.md"
+  data_category: "other"
+  tags:
+    - "hall of fame"
+    - "certificate"
+    - "penetration testing"
+    - "red teaming"
+    - "2021"
+
+
+
+
+
+
+
+
+# 2020
+
+# certificates
+- title: "Web Applications for Everybody - Specialization"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/php_ahnqsu.png"
+  alt_text: "web development course certificate"
+  cert_href: "https://www.coursera.org/account/accomplishments/specialization/RAR672Y65HUQ"
+  data_category: "certificate"
+  tags:
+    - "coursera"
+    - "certificate"
+    - "web development"
+    - "php"
+    - "html"
+    - "js"
+    - "jquery"
+    - "sql"
+    - "2020"
+
+- title: "Python 3 Programming Specialization"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/michigan_pwngdd.png"
+  alt_text: "Python 3 Programming course certificate"
+  cert_href: "https://www.coursera.org/account/accomplishments/specialization/EZXGUTN6D6JY"
+  data_category: "certificate"
+  tags:
+    - "coursera"
+    - "certificate"
+    - "Image Analysis"
+    - "Data Processing"
+    - "Data Manipulation"
+    - "Computer Programming"
+    - "OOP"
+    - "2020"
+
+
+- title: "Google IT Support Professional Certificate"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/googleit_dye5du.svg"
+  alt_text: "Google IT Support Professional Certificate"
+  cert_href: "https://www.coursera.org/account/accomplishments/specialization/WRBBXFZBKA55"
+  data_category: "certificate"
+  tags:
+    - "coursera"
+    - "certificate"
+    - "Cybersecurity"
+    - "IT Support"
+    - "Technical Support"
+    - "Troubleshooting"
+    - "Networking"
+    - "System Administration"
+    - "Network Security"
+    - "2020"
+
+
+- title: "Google IT Automation with Python Professional Certificate"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/google-python_jsgpkm.svg"
+  alt_text: "Google IT Automation with Python Professional Certificate"
+  cert_href: "https://www.coursera.org/account/accomplishments/specialization/GN4DW7ZMMQNP"
+  data_category: "certificate"
+  tags:
+    - "coursera"
+    - "certificate"
+    - "Python"
+    - "Automation"
+    - "IT Automation"
+    - "Bash Scripting"
+    - "Git"
+    - "Version Control"
+    - "Configuration Management"
+    - "2020"
+
+
+- title: "Hardware Security"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/hardware-security-1_ctsfmy.png"
+  alt_text: "Hardware Security Certificate"
+  cert_href: "https://www.coursera.org/account/accomplishments/certificate/Y65BR9G4WM7K"
+  data_category: "certificate"
+  tags:
+    - "coursera"
+    - "certificate"
+    - "Hardware Security"
+    - "Computer hardware"
+    - "Hardware Design"
+    - "Cryptography"
+    - "Threat Modeling"
+    - System Design and Implementation"
+    - "2020"
+
+
+- title: "Software Security"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/software-security-1_rrmsno.png"
+  alt_text: "Software Security Certificate"
+  cert_href: "https://www.coursera.org/account/accomplishments/certificate/DAXJBJGEML6Y"
+  data_category: "certificate"
+  tags:
+    - "coursera"
+    - "certificate"
+    - "security engineering"
+    - "security testing"
+    - "vulnerability assessments"
+    - "OWASP"
+    - "web applications"
+    - "application security"
+    - "secure coding"
+    - "2020"
+
+
+- title: "Usable Security"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/usable-security-1_vbbbcb.png"
+  alt_text: "Usable Security Certificate"
+  cert_href: "https://www.coursera.org/account/accomplishments/verify/7KHBWPV4RV5K"
+  data_category: "certificate"
+  tags:
+    - "coursera"
+    - "certificate"
+    - "Human-Computer Interaction"
+    - "Usability"
+    - "Security Engineering"
+    - "Human Factors"
+    - "Information Privacy"
+    - "Multi-Factor Authentication"
+    - "Personally Identifiable Information"
+    - "2019"
+
+
+- title: "Version Control with Git"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/version-control-with-git-1_srgsob.png"
+  alt_text: "Version Control with Git Certificate"
+  cert_href: "https://www.coursera.org/account/accomplishments/certificate/XX3YG4XLXXF6"
+  data_category: "certificate"
+  tags:
+    - "coursera"
+    - "certificate"
+    - "Git"
+    - "Version Control"
+    - "Software Development"
+    - "Collaboration"
+    - "Branching and Merging"
+    - "Code Management"
+    - "2020"
+
+
+- title: "Programming for Everybody (Getting Started with Python)"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/programming-for-everybody-1_m6bqy6.png"
+  alt_text: "Programming for Everybody (Getting Started with Python) Certificate"
+  cert_href: "https://www.coursera.org/account/accomplishments/certificate/T4RJ9DQN5RK3"
+  data_category: "certificate"
+  tags:
+    - "coursera"
+    - "certificate"
+    - "Development Environment"
+    - "Computational Thinking"
+    - "Computer Programming"
+    - "Programming Principles"
+    - "Software Installation"
+    - "Python Programming"
+    - "2020"
+
+
+- title: "From Data to Insights with Google Cloud Platform Specialization"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/from-data-to-insights-with-google-cloud-platform-1_ft22zz.png"
+  alt_text: "Box"
+  cert_href: "https://www.coursera.org/account/accomplishments/specialization/Y3SP3SG6GL86"
+  data_category: "certificate"
+  tags:
+    - "coursera"
+    - "certificate"
+    - "2020"
+
+
+- title: "Security in Google Cloud - Specialization"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/security-in-google-cloud-1_qqaqpe.png"
+  alt_text: "Security in Google Cloud Certificate"
+  cert_href: "https://www.coursera.org/account/accomplishments/specialization/D8YGQDUW2DXS"
+  data_category: "certificate"
+  tags:
+    - "coursera"
+    - "certificate"
+    - "Prompt Engineering"
+    - "cloud security"
+    - "gcp"
+    - "vpn"
+    - "threat management"
+    - "iam"
+    - "containerization"
+    - "application development"
+    - "kubernetes"
+    - "2019"
+
+
+- title: "Preparing for Google Cloud Certification: Cloud Engineer - Professional"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/data-engineeer_vv3xxw.png"
+  alt_text: "Preparing for Google Cloud Certification: Cloud Engineer - Professional certification"
+  cert_href: "https://coursera.org/verify/professional-cert/5MAV2XVE88FY"
+  data_category: "certificate"
+  tags:
+    - "coursera"
+    - "certificate"
+    - "Load Balancing"
+    - "gcp"
+    - "Cloud Computing Architecture"
+    - "Data Storage Technologies"
+    - "iam"
+    - "Containerization"
+    - "prompt engineering"
+    - "2020"
+
+
+- title: "ICSI | Certified Network Security Specialist (CNSS)"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/cnss_sfogdu.svg"
+  alt_text: "ICSI | Certified Network Security Specialist (CNSS)"
+  cert_href: "https://ondemand.icsiglobal.com/certificates/vkx1fpidrs"
+  data_category: "certificate"
+  tags:
+    - "icsi"
+    - "certificate"
+    - "cnss"
+    - "network security"
+    - "2020"
+
+
+- title: "Learn Ethical Hacking from Scratch"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/zsecurity_nlx94h.png"
+  alt_text: "Learn Ethical Hacking from Scratch"
+  cert_href: "https://zsecurity.org/certification/validation?cert_number=920Cjw5U"
+  data_category: "certificate"
+  tags:
+    - "zsecurity"
+    - "certificate"
+    - "ethical hacking"
+    - "cybersecurity"
+    - "hacking"
+    - "penetration testing"
+    - "udemy"
+    - "2019"
+
+
+- title: "Web Application Penetration Testing"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/web-application-penetration-testing-1_ppkhpf.png"
+  alt_text: "Box"
+  cert_href: "https://app.cybrary.it/profile/mayomacam?tab=cert-completion&cert=CC-259c3775-41c1-411f-b480-2aaa1660be6a"
+  data_category: "certificate"
+  tags:
+    - "cybrary"
+    - "certificate"
+    - "web application"
+    - "penetration testing"
+    - "2019"
+
+
+- title: "Kali Linux Fundamentals"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/kali-linux-funda_el2w4b.png"
+  alt_text: "Kali Linux Fundamentals - course"
+  cert_href: "https://app.cybrary.it/profile/mayomacam?tab=cert-completion&cert=C-5f7f16ec28-53bf3c50e"
+  data_category: "certificate"
+  tags:
+    - "cybrary"
+    - "certificate"
+    - "kali linux"
+    - "2019"
+
+
+- title: "Dome CTF"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/domectf_certificate_sf0zja.svg"
+  alt_text: "Dome CTF 2020 Certificate"
+  cert_href: "https://res.cloudinary.com/dwcay7xti/image/upload/domectf_certificate_sf0zja.svg"
+  data_category: "certificate"
+  tags:
+    - "ctf"
+    - "certificate"
+    - "domectf2020"
+    - "beagle security"
+    - "kerla police"
+    - "2020"
+
+
+- title: "Practical mobile app Attacks by example - c0c0n"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/red-team-mobile_b1ouly.svg"
+  alt_text: "Practical mobile app Attacks by example - c0c0n"
+  cert_href: "https://res.cloudinary.com/dwcay7xti/image/upload/red-team-mobile_b1ouly.svg"
+  data_category: "certificate"
+  tags:
+    - "redteam"
+    - "certificate"
+    - "mobile app"
+    - "attacks"
+    - "redteam village"
+    - "cocon"
+    - "2020"
+
+
+- title: "Advanced SSRF Exploitation - c0c0n"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/red-team-ssrf_cvtpiq.svg"
+  alt_text: "Advanced SSRF Exploitation - c0c0n"
+  cert_href: "https://res.cloudinary.com/dwcay7xti/image/upload/red-team-ssrf_cvtpiq.svg"
+  data_category: "certificate"
+  tags:
+    - "redteam"
+    - "certificate"
+    - "ssrf"
+    - "redteam village"
+    - "cocon"
+    - "2020"
+
+
+- title: " Bug Bounty Hunting - Offensive Approach to Hunt Bugs "
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/bug-bounty_teiwzg.jpg"
+  alt_text: " Bug Bounty Hunting - Offensive Approach to Hunt Bugs - Vikash Choudhary"
+  cert_href: "https://www.udemy.com/certificate/UC-OE5U9LEQ/"
+  data_category: "certificate"
+  tags:
+    - "udemy"
+    - "certificate"
+    - "bug bounty"
+    - "hacking"
+    - "web application security"
+    - "2019"
+
+
+- title: "Learn Ethical Hacking From Scratch - Z Security"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/learn-ethical-hacking-from-scratch_f9prtq.jpg"
+  alt_text: " Learn Ethical Hacking From Scratch - Z Security on udemy"
+  cert_href: "https://www.udemy.com/certificate/UC-GLL3IZLH/"
+  data_category: "certificate"
+  tags:
+    - "udemy"
+    - "certificate"
+    - "ethical hacking"
+    - "zsecurity"
+    - "penetration testing"
+    - "2019"
+
+
+- title: "Python Game Development - Create a Tetris with PyGame"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/py-game_e55xe8.jpg"
+  alt_text: "Python Game Development - Create a Tetris with PyGame"
+  cert_href: "https://www.udemy.com/certificate/UC-PKQIRLCL/"
+  data_category: "certificate"
+  tags:
+    - "udemy"
+    - "certificate"
+    - "python"
+    - "game development"
+    - "pygame"
+    - "2019"
+
+
+- title: "Assembly Programming For All Platforms, Learn To Code"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/assembly-1_pbzkew.png"
+  alt_text: "Assembly Programming For All Platforms, Learn To Code"
+  cert_href: "https://www.udemy.com/certificate/UC-QKYXEBSY/"
+  data_category: "certificate"
+  tags:
+    - "udemy"
+    - "certificate"
+    - "assembly"
+    - "programming"
+    - "coding"
+    - "low level programming"
+    - "2019"
+
+
+- title: "Ethical Hacking - NPTEL"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/Ethical_Hacking_udms6g.jpg"
+  alt_text: "Ethical Hacking - NPTEL"
+  cert_href: "https://nptel.ac.in/noc/E_Certificate/NPTEL19CS68S42100028191019322"
+  data_category: "certificate"
+  tags:
+    - "nptel"
+    - "certificate"
+    - "ethical hacking"
+    - "nptel"
+    - "cybersecurity"
+    - "2020"
+
+
+- title: "Software Testing - NPTEL"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/Software_Testing_zpl0jh.jpg"
+  alt_text: "Software Testing - NPTEL"
+  cert_href: "https://nptel.ac.in/noc/E_Certificate/NPTEL20CS19S1PC602638"
+  data_category: "certificate"
+  tags:
+    - "nptel"
+    - "certificate"
+    - "software testing"
+    - "nptel"
+    - "2020"
+
+
+- title: "Information Security - 5 - Secure Systems Engineering - NPTEL"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/Information_Security_-_5_-_Secure_Systems_Engineering_cxhd0e.jpg"
+  alt_text: "Information Security - 5 - Secure Systems Engineering - NPTEL"
+  cert_href: "https://nptel.ac.in/noc/E_Certificate/NPTEL20CS33S1PC793039"
+  data_category: "certificate"
+  tags:
+    - "nptel"
+    - "certificate"
+    - "information security"
+    - "nptel"
+    - "secure systems engineering"
+    - "2020"
+
+
+- title: "Security Beside Athens 2020 - Webinar"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/Aman_Maurya_-_BSidesAth_Attendance_Certificate_-_20-June-2020-1_icgnoi.png"
+  alt_text: "BSidesAth Attendance Certificate 2020 - Webinar"
+  cert_href: "https://res.cloudinary.com/dwcay7xti/image/upload/Aman_Maurya_-_BSidesAth_Attendance_Certificate_-_20-June-2020-1_icgnoi.png"
+  data_category: "certificate"
+  tags:
+    - "webinar"
+    - "certificate"
+    - "bsidesathens"
+    - "security"
+    - "2020"
+
+
+- title: "Microsoft Azure Custom Vision - Webinar"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/Azure_q76a8i.png"
+  alt_text: "Microsoft Azure Custom Vision - Webinar"
+  cert_href: "https://res.cloudinary.com/dwcay7xti/image/upload/Azure_q76a8i.png"
+  data_category: "certificate"
+  tags:
+    - "webinar"
+    - "certificate"
+    - "azure"
+    - "microsoft"
+    - "custom vision"
+    - "student program"
+    - "2020"
+
+
+- title: "Code-Down - Hackathon by KIET IEEE"
+  img_src: "https://res.cloudinary.com/dwcay7xti/image/upload/w_250/h_180/Aman_Kumar_Maurya-1_ejpuli.png"
+  alt_text: "Code-Down - Hackathon by KIET IEEE"
+  cert_href: "https://res.cloudinary.com/dwcay7xti/image/upload/Aman_Kumar_Maurya-1_ejpuli.png"
+  data_category: "other"
+  tags:
+    - "certificate"
+    - "other"
+    - "hackathon"
+    - "kiet"
+    - "ieee"
+    - "coding"
+    - "2020"

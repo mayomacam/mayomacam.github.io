@@ -1,0 +1,84 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+# Site settings
+title: Blog - mayomacam
+email: amanrkt231217@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+ A personal log of what I’m building, breaking, and learning — from hacking techniques and Python tricks to UI concepts and game ideas. If you’re into code, design, or curiosity-driven learning, you’ll feel right at home.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  mayomacam
+linkedin_username: mayomacam
+tryhackme_handle: mayomacam
+# Optional: HackTheBox handle, if you want to include it
+hackthebox_handle: "96854"
+# https://app.hackthebox.com/profile/96854
+# Optional: Google Analytics ID, if you want to track site usage
+google_analytics: G-0ELDEPRTCR # Replace with your Google Analytics ID
+
+# Footer Content (Optional, can be hardcoded in footer.html too)
+footer_address: "Sample Street, no. 7, Sample City, Sample Country"
+footer_contact_phone: "+1234567890"
+footer_contact_email: "info@contact.support" # Different from site.email if needed
+footer_logo_url: "/assets/images/logo.avif" # External logo
+
+# Navbar logo
+navbar_logo_url: "/assets/images/logo.avif" # Path to your logo image in the assets folder
+
+author:
+  name: "Mayomacam" # Default author name for the site
+  avatar: "/assets/mayomacam.png" # Path to a default avatar for site-wide use
+
+# ... other configurations ...
+
+# Default front matter for pages
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+markdown: kramdown
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
